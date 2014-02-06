@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+	xmlns:gap="http://phonegap.com/ns/1.0"
+	id="com.chexly.app"
+	versionCode="1"
+	version="1.0.0">
+
+  <name>Chexly</name>
+
+  <description>
+    Chexly.com App
+  </description>
+
+  <author href="http://chexly.com" email="support@chexly.com">
+    Chexly Team
+  </author>
+
+  <access origin="http://chexly.com" subdomains="true" />
+</widget>
