@@ -15,5 +15,16 @@
     Chexly Team
   </author>
 
+  <icon src="android/36.png" gap:platform="android" gap:density="ldpi" />
+  <icon src="android/48.png" gap:platform="android" gap:density="mdpi" />
+  <icon src="android/72.png" gap:platform="android" gap:density="hdpi" />
+  <icon src="android/96.png" gap:platform="android" gap:density="xhdpi" />
+  <icon src="android/144.png" gap:platform="android" gap:density="xxhdpi" />
+  <icon src="android/192.png" gap:platform="android" gap:density="xxxhdpi" />
+
+  <icon src="ios/60.png" gap:platform="ios" width="60" height="60" />
+  <icon src="ios/120.png" gap:platform="ios" width="120" height="120" />
+  <icon src="ios/152.png" gap:platform="ios" width="152" height="152" />
+
   <access origin="http://chexly.com" subdomains="true" />
 </widget>
