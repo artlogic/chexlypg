@@ -26,5 +26,5 @@
   <icon src="ios/120.png" gap:platform="ios" width="120" height="120" />
   <icon src="ios/152.png" gap:platform="ios" width="152" height="152" />
 
-  <access origin="http://chexly.com" subdomains="true" />
+  <access origin="https://chexly.com" subdomains="true" />
 </widget>
