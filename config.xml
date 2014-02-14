@@ -33,6 +33,7 @@
   <access origin="https://js.stripe.com" subdomains="true" />
   <access origin="https://d2dq2ahtl5zl1z.cloudfront.net" subdomains="true" />
   <access origin="https://connect.facebook.net" subdomains="true" />
+  <access origin="https://www.facebook.com" subdomains="true" />
   <access origin="https://ssl.mousestats.com" subdomains="true" />
   <access origin="https://maps.gstatic.com" subdomains="true" />
   <access origin="https://themes.googleusercontent.com" subdomains="true" />
