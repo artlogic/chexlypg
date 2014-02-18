@@ -25,6 +25,10 @@
   <icon src="ios/icon-120.png" gap:platform="ios" width="120" height="120" />
   <icon src="ios/icon-152.png" gap:platform="ios" width="152" height="152" />
 
+  <gap:splash src="ios/launch-320-480.png" gap:platform="ios" width="320" height="480" />
+  <gap:splash src="ios/launch-640-960.png" gap:platform="ios" width="640" height="960" />
+  <gap:splash src="ios/launch-640-1136.png" gap:platform="ios" width="640" height="1136" />
+
   <access origin="https://chexly.com" subdomains="true" />
   <access origin="https://cdnjs.cloudflare.com" subdomains="true" />
   <access origin="https://maps.googleapis.com" subdomains="true" />
