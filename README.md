@@ -1,4 +1,4 @@
 chexlypg
 ========
 
-chexly.com phonegap app
+demandfood.com phonegap app
