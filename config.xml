@@ -21,24 +21,7 @@
   <icon src="android/icon-144.png" gap:platform="android" gap:density="xxhdpi" />
   <icon src="android/icon-192.png" gap:platform="android" gap:density="xxxhdpi" />
 
-  <access origin="https://demandfood.com" subdomains="true" />
-  <access origin="https://cdnjs.cloudflare.com" subdomains="true" />
-  <access origin="https://*.googleapis.com" subdomains="true" />
-  <access origin="https://cdn.segment.io" subdomains="true" />
-  <access origin="https://api.segment.io" subdomains="true" />
-  <access origin="https://s3.amazonaws.com" subdomains="true" />
-  <access origin="https://*.olark.com" subdomains="true" />
-  <access origin="https://*.hellobar.com" subdomains="true" />
-  <access origin="https://*.cloudfront.net" subdomains="true" />
-  <access origin="https://*.akamaihd.net" subdomains="true" />
-  <access origin="https://www.navilytics.com" subdomains="true" />
-  <access origin="https://js.stripe.com" subdomains="true" />
-  <access origin="https://connect.facebook.net" subdomains="true" />
-  <access origin="https://*.facebook.com" subdomains="true" />
-  <access origin="https://maps.gstatic.com" subdomains="true" />
-  <access origin="https://csi.gstatic.com" subdomains="true" />
-  <access origin="https://themes.googleusercontent.com" subdomains="true" />
-  <access origin="https://www.google-analytics.com" subdomains="true" />
+  <access origin="*" subdomains="true" />
 
   <feature name="http://api.phonegap.com/1.0/network" />
 </widget>
